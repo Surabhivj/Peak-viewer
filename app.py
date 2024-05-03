@@ -57,7 +57,7 @@ def main():
     logo_image = "./csem.webp"
     st.sidebar.image(logo_image, use_column_width=True)
 
-    st.title('DROP TCR Peak Viewer')
+    st.title('Peak Viewer')
     uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
 
 
