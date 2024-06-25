@@ -1,7 +1,7 @@
 # Peak Viewer
 
 ## Overview
-The DROP TCR Peak Viewer is a Streamlit web application designed to visualize and analyze peak data from CSV files. 
+The Peak Viewer is a Streamlit web application designed to visualize and analyze peak data from CSV files. 
 It offers various features such as filtering, peak detection, and histogram generation to help users analyze their data effectively.
 
 ## Installation
