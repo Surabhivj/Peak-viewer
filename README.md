@@ -8,7 +8,7 @@ It offers various features such as filtering, peak detection, and histogram gene
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Peak-viewer.git
+https://github.com/Surabhivj/Peak-viewer.git
 
 cd Peak-viewer
 
