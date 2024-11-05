@@ -8,11 +8,11 @@ It offers various features such as filtering, peak detection, and histogram gene
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/drop-tcr-peak-viewer.git
+git clone https://github.com/yourusername/Peak-viewer.git
 
+cd Peak-viewer
 
 pip install -r requirements.txt
-
 
 streamlit run app.py
 
