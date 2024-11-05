@@ -138,8 +138,8 @@ def main():
                 fig.update_yaxes(title_text="Signal (mV)", row=i, col=1)
                 fig.update_layout(height=700, width=900, showlegend=False)
     
-                fig.update_xaxes(title_text="Count", row=i, col=2)
-                fig.update_yaxes(title_text="Peak height (mV)", row=i, col=2)
+                fig.update_yaxes(title_text="Count", row=i, col=2)
+                fig.update_xaxes(title_text="Peak height (mV)", row=i, col=2)
             
 
 
